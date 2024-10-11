@@ -1,3 +1,9 @@
+/**
+ * ####################################################
+ *  File Metadata Microservice - 2024-10-11
+ * ####################################################
+ */
+
 var express = require('express');
 var cors = require('cors');
 require('dotenv').config();
